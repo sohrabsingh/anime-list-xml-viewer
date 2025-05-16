@@ -1,5 +1,3 @@
----
-
 # Anime List XML Viewer
 
 **Anime List XML Viewer** is a web-based tool designed to parse and display anime lists exported in XML format from platforms like MyAnimeList. It provides a user-friendly interface to view and interact with your anime collection.([GitHub][1])
