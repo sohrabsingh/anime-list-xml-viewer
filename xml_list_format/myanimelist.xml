@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<myanimelist>
+  <myinfo>
+    <user_export_type>1</user_export_type>
+  </myinfo>
+  <anime>
+    <series_animedb_id>51818</series_animedb_id>
+    <series_title>Fire Force Season 3</series_title>
+    <my_status>Plan to Watch</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+  <anime>
+    <series_animedb_id>59514</series_animedb_id>
+    <series_title>The Red Ranger Becomes an Adventurer in Another World</series_title>
+    <my_status>Dropped</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+  <anime>
+    <series_animedb_id>60593</series_animedb_id>
+    <series_title>My Hero Academia: Vigilantes</series_title>
+    <my_status>Watching</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+  <anime>
+    <series_animedb_id>59597</series_animedb_id>
+    <series_title>Witch Watch</series_title>
+    <my_status>Plan to Watch</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+  <anime>
+    <series_animedb_id>59361</series_animedb_id>
+    <series_title>Can You Keep a Secret?</series_title>
+    <my_status>Watching</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+  <anime>
+    <series_animedb_id>57592</series_animedb_id>
+    <series_title>Dr. Stone: Science Future</series_title>
+    <my_status>Watching</my_status>
+    <update_on_import>1</update_on_import>
+  </anime>
+</myanimelist>
